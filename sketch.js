@@ -1,7 +1,8 @@
-// ejercicio 3 p5js
 // martin julio
+// 25-4-23
+// ejercicio 3 movimiento en p5js
+// informatica aplicada 1 - catedra bedoian 
 // basado en obra de yakov chernikhov
-// 12.4.23
 
 let entX, entY, mvX, mvY;
 
